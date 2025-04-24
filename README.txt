@@ -1,5 +1,25 @@
 This dataset was scraped from official NBA website and offers the following data on the players for playoffs and Regular Season. 
+# Power BI  Dashboard
 
+This dashboard visualizes  performance across Teams, Player and Year.
+
+## 📊 Features
+- Average, Sum and Totals
+- Top performing Teams and Player
+- Interactive filters and slicers
+
+## 📁 Files Included
+- `NBA.pbix`: Main Power BI file
+- `nba.csv`: CSV used for importing data
+- `Playoffs.csv`: CSV used for importing data
+- `Regular_Season `: CSV used for importing data
+
+## 🛠 Tools Used
+- Power BI Desktop
+- Excel
+
+## 📷 Screenshot
+_Add a screenshot here if you like!
 ◉
 .........column abbreviations............
 
